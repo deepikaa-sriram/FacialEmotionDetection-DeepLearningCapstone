@@ -1,2 +1,2 @@
-# FacialEmotionDetection-DeepLearningCapstone
-The goal of this project was to use Deep Learning and Artificial Intelligence techniques to create a computer vision model that can accurately detect facial expressions. For this project, I was asked to create various models: two basic CNN models, a Vgg16 model, a ResNetv2 model, and an EfficientNet model.
+# MIT Applied Data Science Program Capstone Project: Facial Emotion Detection using Deep Learning
+The goal of this project was to use Deep Learning and Artificial Intelligence techniques to create a computer vision model that can accurately detect facial expressions. For this project, I was asked to create various models: two basic CNN models, a Vgg16 model, a ResNetv2 model, and an EfficientNet model. I then compared and contrasted the models and shared my findings through a business presentation. 
